@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-rate-modal/static/css/main.3c0c82be.css",
+    "main.js": "/react-rate-modal/static/js/main.c22cae64.js",
+    "index.html": "/react-rate-modal/index.html",
+    "static/media/icon-star.svg": "/react-rate-modal/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.3c0c82be.css.map": "/react-rate-modal/static/css/main.3c0c82be.css.map",
+    "main.c22cae64.js.map": "/react-rate-modal/static/js/main.c22cae64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c0c82be.css",
+    "static/js/main.c22cae64.js"
+  ]
+}
